@@ -11,8 +11,8 @@ I completed my Undergrad in Computer Science in Dhanekula Institute of engineeri
 I'm interested in devops. So, i'll be looking forward into it.
 
 ## 4.Links
-LinkedIn (https://www.linkedin.com/in/naga-anshitha-velagapudi/ (Links to an external site.))
+- [LinkedIn](https://www.linkedin.com/in/naga-anshitha-velagapudi/)
 
-Github (https://github.com/anshithavelagapudi)
+- [Github](https://github.com/anshithavelagapudi)
 
 
